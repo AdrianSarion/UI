@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST={__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},"/":["static/chunks/pages/index-eea9e896dc90b720.js"],"/_error":["static/chunks/pages/_error-7a92967bea80186d.js"],"/slicefi":["static/chunks/pages/slicefi-de3a37a2e1d0ea5c.js"],sortedPages:["/","/_app","/_error","/slicefi"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
